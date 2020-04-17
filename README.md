@@ -2,6 +2,7 @@
 by jay.jyhuh@gmail.com
 
 > Gerrithub.io Test
+> Connet from Gitlab to Github for CI/CD using gitlab-ci.
 
 [![build status](https://gitlab.com/jay-huh/dev-env/badges/master/pipeline.svg?style=flat-square)](https://gitlab.com/jay-huh/dev-env/commits/master)
 [![coverage](https://gitlab.com/jay-huh/dev-env/badges/master/coverage.svg?style=flat)](https://gitlab.com/jay-huh/dev-env/commits/master)
